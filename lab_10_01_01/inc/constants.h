@@ -1,0 +1,23 @@
+#ifndef __CONSTANTS_H__
+
+#define __CONSTANTS_H__
+
+#define TRUE 1
+#define FALSE 0
+#define CORRECT_ARGS_NUMBER 3
+#define FILE_IN_NAME_SIZE 100
+#define FILE_OUT_NAME_SIZE 100
+
+#define OK 0
+#define FILE_READING_ERROR -1
+#define FILE_CLOSE_ERROR -2
+#define MEMORY_ALLOCATION_ERROR -3
+#define ARGS_ERROR -4
+#define PUSH_DATA_ERROR -5
+#define DATA_FILLING_ERROR -6
+#define NULL_POINTER -7
+#define REVERSE_ERROR -8
+#define UNDERFLOW_ERROR -9
+#define SORT_ERROR -10
+
+#endif // __CONSTANTS_H__

@@ -1,0 +1,1 @@
+./main.exe neg_05_in.txt mega super duper boom

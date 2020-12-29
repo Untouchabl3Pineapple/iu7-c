@@ -1,0 +1,54 @@
+quant: 3
+name :kill
+manuf :xanos
+price :1
+amount :2
+name :kiml
+manuf :xeros
+price :1
+amount :3
+name :cat
+manuf :dog
+price :1
+amount :4
+
+./main.exe at in_5.bin
+
+name :king
+manuf :join
+price :143
+amount :23
+
+king join 143 23
+kiml xeros 1 3
+cat dog 1 4
+kill xanos 1 2
+
+
+quant: 3
+name :kill
+manuf :xanos
+price :1
+amount :2
+name :kiml
+manuf :xeros
+price :1
+amount :3
+name :cat
+manuf :dog
+price :1
+amount :4
+
+./main.exe at in_5.bin
+
+name :lower
+manuf :human
+price :0
+amount :0
+
+./main.exe p in_5.bin
+
+kill xanos 1 2
+kiml xeros 1 3
+cat dog 1 4
+lower human 0 0

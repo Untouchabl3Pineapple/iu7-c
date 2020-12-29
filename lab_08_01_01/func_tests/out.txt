@@ -1,0 +1,4 @@
+Input number of strings and columns: Input matrix:
+Input number of strings and columns: Input matrix:
+Input powers of matrixs: 
+Result:

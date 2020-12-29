@@ -1,0 +1,1 @@
+./main.exe pos_03_in.txt ga 

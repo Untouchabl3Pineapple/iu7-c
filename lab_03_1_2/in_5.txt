@@ -1,0 +1,6 @@
+input the number of rows in the matrix: 2
+input the number of columns in the matrix: 2
+input the matrix element: 12
+input the matrix element: 13
+input the matrix element: 43
+input the matrix element: 73

@@ -1,0 +1,11 @@
+#ifndef __ERRORS_H__
+#define __ERRORS_H__
+
+#define OK 0
+#define MEMORY_ALLOCATION_ERROR 1
+#define MEMORY_ALLOCATION_RES_ERROR 2
+#define MATRIX_FILL_PARAMETR_ERROR 3
+#define MATRIX_FILL_ELEMENT_ERROR 4
+#define DEGREE_ERROR 5
+
+#endif // __ERRORS_H__

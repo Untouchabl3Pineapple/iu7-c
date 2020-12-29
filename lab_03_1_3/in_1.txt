@@ -1,0 +1,1 @@
+input the number of rows in the matrix: f

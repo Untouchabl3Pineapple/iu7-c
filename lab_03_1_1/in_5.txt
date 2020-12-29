@@ -1,0 +1,3 @@
+input the number of rows in the matrix: 2
+input the number of columns in the matrix: 2
+input the matrix element: f

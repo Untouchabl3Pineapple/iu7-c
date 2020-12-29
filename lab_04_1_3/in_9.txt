@@ -1,0 +1,1 @@
+Input str: abc def ggg khkhkhk u
